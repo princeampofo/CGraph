@@ -1,0 +1,7 @@
+.env
+wdqs-proxy
+wdqs-frontend
+wdqs-updater
+.DS_Store
+extensions/.DS_Store
+extensions/BatchIngestion/.DS_Store
